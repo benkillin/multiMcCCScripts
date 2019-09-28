@@ -45,7 +45,7 @@ cd active
 
 If something goes wrong check the logs of the screen sessions, which will be created after `./start.sh` is executed and named after the folder name in the `active` directory with the extension `.screenout` 
 
-If the `./start` script fails to start a screen session, open the script and read the note I put in there saying that some versions of screen do not support the screen logging flags that are specified by default. Try commenting the default line and uncommenting the line noted by the comment.
+If the `./start.sh` script fails to start a screen session, open the script and read the note I put in there saying that some versions of screen do not support the screen logging flags that are specified by default. Try commenting the default line and uncommenting the line noted by the comment.
 
 ## Helper scripts
 
