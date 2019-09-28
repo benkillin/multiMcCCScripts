@@ -1,0 +1,13 @@
+Connection has been lost
+Server is restarting
+Server is full
+Too Many people
+You have connected too fast. You must wait at least 4 seconds between connections.
+Failed to check session.
+You have been kicked back to hub for being AFK!
+Error occurred while contacting login servers, are they down?
+Failed to login: The authentication servers are currently down for maintenance.
+[Proxy] Lost connection to server.
+There are no hubs available. Please try again later.
+Could not connect to target server, you have been moved to a fallback server.
+

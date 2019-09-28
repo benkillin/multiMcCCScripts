@@ -1,0 +1,2 @@
+account1@example.com:password1:alt_IGN1
+account2@example.com:password2:alt_IGN2
