@@ -10,6 +10,8 @@ For this to work you must install the mono project to run .net apps on linux, an
 
 Place the .exe in `./template/consoleClient/`
 
+Ensure it is named "MinecraftClient.exe"
+
 ### 1) edit `list.txt` and input the information for your alts you want to run as console clients. 
 
 The format is as follows:
