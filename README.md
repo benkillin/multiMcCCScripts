@@ -61,7 +61,7 @@ Once you are done typing messages or commands hit `ctrl + a` and then `d` to det
 
 This script will allow you to send input to all of the screen sessions at the same time. the usage is:
 
-`./broadcastAlts.sh "your commands or text here^m"
+`./broadcastAlts.sh "your commands or text here^m"`
 
 **note: the "^m" is REQUIRED to be entered as a carrot (shift + 6 on a qwerty keyboard layout) and the letter `m`. This is the signal to the screen session to actually send the input to the running console client terminal.**
 
