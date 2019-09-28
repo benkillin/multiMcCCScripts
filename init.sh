@@ -21,7 +21,7 @@ for player in `cat list.txt`; do
 	cp -a template/consoleClient ./active/$counter$nick;
 	sed -i "s/login=email@email.email/login=$email/g" ./active/$counter$nick/MinecraftClient.ini;
 	sed -i "s/password=hunter2/password=$pw/g" ./active/$counter$nick/MinecraftClient.ini;
-	head -5 ./active/$counter$nick/MinecraftClient.ini;
+	head -4 ./active/$counter$nick/MinecraftClient.ini;
 
 	((counter++)); 
 	printf "\n\n";
